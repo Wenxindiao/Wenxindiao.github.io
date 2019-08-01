@@ -18,7 +18,7 @@ sidebar-avatar: /img/girl.jpg      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-weibo_username:     文心雕龙xm
+weibo_username:     1005055884953981
 # zhihu_username:     qiubaiying
 github_username:    Wenxindiao
 facebook_username:  baiying.qiu.7
@@ -59,15 +59,15 @@ kramdown:
 # Disqus（https://disqus.com/）
 # disqus_username: qiubaiying
 
-# Gitalk
-# gitalk:
-#   enable: true    #是否开启Gitalk评论
-#   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-#   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-#   repo: qiubaiying.github.io    #仓库名称
-#   owner: qiubaiying    #github用户名
-#   admin: qiubaiying
-#   distractionFreeMode: true #是否启用类似FB的阴影遮罩
+Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: e9552d816ad2d4ec9336                           #生成的clientID
+  clientSecret: 6ad95b106203530cf5358de80963a7ea94310688    #生成的clientSecret
+  repo: Wenxindiao.github.io    #仓库名称
+  owner: Wenxindiao    #github用户名
+  admin: Wenxindiao
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
