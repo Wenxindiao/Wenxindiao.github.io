@@ -1,10 +1,10 @@
 # Site settings
-title: BY Blog
-SEOTitle: 李文涛的博客 | BY Blog
+title: LWT Blog
+SEOTitle: 李文涛的博客 | LWT Blog
 header-img: img/post-bg-desk.jpg
 email: 2392033016@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 李文涛的博客, liwentao, 李文涛, iOS, Apple, iPhone"
+keyword: "LWT, BLWT Blog, 李文涛的博客, liwentao, 李文涛, iOS, Apple, iPhone"
 url: "http://wenxindiao.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Wenxindiao/Wenxindiao.github.io.git" # you code repository
@@ -31,7 +31,7 @@ jianshu_username:   e71990ada2fd
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
-paginate: 10
+paginate: 2
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "LWT",
+        href: "https://user.qzone.qq.com/2392033016/infocenter"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "ZYX",
+        href: "https://user.qzone.qq.com/815055382?ADUIN=2392033016&ADSESSION=1564641556&ADTAG=CLIENT.QQ.5641_FriendTip.0&ADPUBNO=26915&source=namecardhoverstar"
     },{
         title: "Apple",
         href: "https://apple.com"
